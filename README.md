@@ -28,6 +28,9 @@ marp: true
 * jekyllthemes.io
 * jekyll-themes.com
 
+## 나의 선택은...
+* [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
+
 ---
 
 # adsense
@@ -48,4 +51,4 @@ marp: true
 * [jekyllrb](https://jekyllrb-ko.github.io/)
 * [jekyllrb themes](https://jekyllrb-ko.github.io/docs/themes/)
 * [adsense](https://adsense.google.com/intl/ko_kr/start/)
-
+* [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
