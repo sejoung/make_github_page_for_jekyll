@@ -52,3 +52,4 @@ marp: true
 * [jekyllrb themes](https://jekyllrb-ko.github.io/docs/themes/)
 * [adsense](https://adsense.google.com/intl/ko_kr/start/)
 * [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
+* [jekyll-theme topics](https://github.com/topics/jekyll-theme)
